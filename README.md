@@ -30,9 +30,13 @@ To demonstrate how sports performance data can be transformed into actionable in
 - Runs Trend by Year
 
 ## 📈 Insights
-- Strongest performance against Australia
-- Peak years: 2016–2019
-- Consistent high scoring across formats
+- Virat Kohli is one of the most consistent and dominant players in modern cricket.
+
+- His peak years came between 2016–2019, with outstanding run scoring.
+
+- Australia is his most scored-against opponent, showing he thrives against strong teams.
+
+- The performance dip after 2020 suggests possible changes in form, team strategy, or match frequency.
 
 ## 🛠 Tools & Technologies
 - Power BI
@@ -42,12 +46,10 @@ To demonstrate how sports performance data can be transformed into actionable in
 - `PowerBI_Dashboard.pbix` → Power BI source file
 - `Dataset.csv` → Raw data file
 - `Dashboard_Screenshot.png` → Preview image
+---
+![img(2)](https://github.com/HafiHaroon/Virat_kohli_2008-2022/blob/main/img2.PNG)
 
-## 🚀 How to Use
-1. Download the `.pbix` file.
-2. Open in Power BI Desktop.
-3. Explore the interactive visuals.
-
+---
 ## 👨‍💻 Author
 **Haroon Irshad**  
 📧 Email: hafizharoonirshad@gmail.com  
