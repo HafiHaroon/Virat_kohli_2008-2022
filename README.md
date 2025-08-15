@@ -15,9 +15,10 @@ Understand performance trends over time – visualize peaks and dips in differen
 Goal:
 To demonstrate how sports performance data can be transformed into actionable insights using Power BI, showcasing data storytelling, visualization techniques, and KPI representation in a single interactive dashboard.
 ---
+
 ## Project Dashboard 
 
-
+![img(1)](https://github.com/HafiHaroon/Virat_kohli_2008-2022/blob/main/img1.PNG)
 ---
 ## 📊 Key Features
 - Total Runs: 24,000+
